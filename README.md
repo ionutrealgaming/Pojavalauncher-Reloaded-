@@ -1,3 +1,6 @@
+Soon Recontinued by IonutREALGaming
+
+
 <H1 align="center">PojavLauncher</H1>
 
 <img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="130" height="150" alt="PojavLauncher logo">
